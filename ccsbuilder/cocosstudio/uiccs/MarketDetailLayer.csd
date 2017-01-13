@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MarketDetailLayer" Type="Node" ID="5a6e2737-06a8-4147-be7b-ec7553e9f7c5" Version="2.3.3.0" />
+  <PropertyGroup Name="MarketDetailLayer" Type="Node" ID="5a6e2737-06a8-4147-be7b-ec7553e9f7c5" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

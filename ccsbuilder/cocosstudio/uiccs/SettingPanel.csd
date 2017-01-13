@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="SettingPanel" Type="Node" ID="a3dfcea5-d87d-4939-a812-6b18a3e34c9c" Version="2.3.3.0" />
+  <PropertyGroup Name="SettingPanel" Type="Node" ID="a3dfcea5-d87d-4939-a812-6b18a3e34c9c" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

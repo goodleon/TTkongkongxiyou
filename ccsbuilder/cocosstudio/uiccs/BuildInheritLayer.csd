@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BuildInheritLayer" Type="Node" ID="e5885a97-528a-4833-85cc-ebd50c314d36" Version="2.3.3.0" />
+  <PropertyGroup Name="BuildInheritLayer" Type="Node" ID="e5885a97-528a-4833-85cc-ebd50c314d36" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

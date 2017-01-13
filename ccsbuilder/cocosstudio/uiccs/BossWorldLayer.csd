@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BossWorldLayer" Type="Node" ID="375b9b85-c4eb-464f-bf11-4445b1f24a92" Version="2.3.3.0" />
+  <PropertyGroup Name="BossWorldLayer" Type="Node" ID="375b9b85-c4eb-464f-bf11-4445b1f24a92" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

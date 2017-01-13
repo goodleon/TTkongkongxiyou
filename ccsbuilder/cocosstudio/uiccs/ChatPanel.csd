@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="ChatPanel" Type="Node" ID="c2bfdeee-e8d1-4296-aed0-91a0c0e3d620" Version="2.3.3.0" />
+  <PropertyGroup Name="ChatPanel" Type="Node" ID="c2bfdeee-e8d1-4296-aed0-91a0c0e3d620" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

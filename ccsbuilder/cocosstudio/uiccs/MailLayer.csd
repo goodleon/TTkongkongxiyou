@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MailLayer" Type="Node" ID="e18bfd67-b7d5-4534-8522-24e1ba729352" Version="2.3.3.0" />
+  <PropertyGroup Name="MailLayer" Type="Node" ID="e18bfd67-b7d5-4534-8522-24e1ba729352" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MyBossLayer" Type="Node" ID="a0066dbe-c570-4171-8248-25367cff053e" Version="2.3.3.0" />
+  <PropertyGroup Name="MyBossLayer" Type="Node" ID="a0066dbe-c570-4171-8248-25367cff053e" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -102,7 +102,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="contaner" ActionTag="1166005765" Tag="88" IconVisible="False" LeftMargin="-392.8309" RightMargin="-394.1691" TopMargin="-170.8270" BottomMargin="-200.1730" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="contaner" ActionTag="1166005765" Tag="88" IconVisible="False" LeftMargin="-392.8309" RightMargin="-394.1691" TopMargin="-170.8270" BottomMargin="-200.1730" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="787.0000" Y="371.0000" />
             <AnchorPoint />
             <Position X="-392.8309" Y="-200.1730" />

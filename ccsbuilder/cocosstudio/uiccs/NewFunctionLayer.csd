@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="NewFunctionLayer" Type="Node" ID="e8c9a0ec-62ec-44e4-a4fc-d96357fe0a24" Version="2.3.3.0" />
+  <PropertyGroup Name="NewFunctionLayer" Type="Node" ID="e8c9a0ec-62ec-44e4-a4fc-d96357fe0a24" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

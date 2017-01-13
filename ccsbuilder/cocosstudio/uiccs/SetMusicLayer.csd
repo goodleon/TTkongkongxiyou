@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="SetMusicLayer" Type="Node" ID="12b797a0-0fa5-4b8b-b31d-652205935302" Version="2.3.3.0" />
+  <PropertyGroup Name="SetMusicLayer" Type="Node" ID="12b797a0-0fa5-4b8b-b31d-652205935302" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

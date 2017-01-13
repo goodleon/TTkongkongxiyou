@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="AreaLayer" Type="Node" ID="19c702c5-b844-46eb-82d3-1dc0f990c587" Version="2.3.3.0" />
+  <PropertyGroup Name="AreaLayer" Type="Node" ID="19c702c5-b844-46eb-82d3-1dc0f990c587" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="FederationPanel" Type="Node" ID="765abc81-0498-4c8d-85b5-2bc0da916caf" Version="2.3.3.0" />
+  <PropertyGroup Name="FederationPanel" Type="Node" ID="765abc81-0498-4c8d-85b5-2bc0da916caf" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

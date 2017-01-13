@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="ChallengePanel" Type="Node" ID="f64a3b0b-dabb-47c5-a83e-ab340a578d9a" Version="2.3.3.0" />
+  <PropertyGroup Name="ChallengePanel" Type="Node" ID="f64a3b0b-dabb-47c5-a83e-ab340a578d9a" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

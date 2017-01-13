@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MapPanel" Type="Node" ID="700f8131-ab9b-4efb-a33f-e1c6cc2e6ff4" Version="2.3.3.0" />
+  <PropertyGroup Name="MapPanel" Type="Node" ID="700f8131-ab9b-4efb-a33f-e1c6cc2e6ff4" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

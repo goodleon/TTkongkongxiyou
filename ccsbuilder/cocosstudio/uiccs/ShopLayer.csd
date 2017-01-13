@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="ShopLayer" Type="Node" ID="1646ce70-5bf4-43b2-8ff2-8fedb8bec122" Version="2.3.3.0" />
+  <PropertyGroup Name="ShopLayer" Type="Node" ID="1646ce70-5bf4-43b2-8ff2-8fedb8bec122" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

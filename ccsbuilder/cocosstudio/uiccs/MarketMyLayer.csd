@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MarketMyLayer" Type="Node" ID="aa8fe675-378d-4deb-a662-d5b419aef091" Version="2.3.3.0" />
+  <PropertyGroup Name="MarketMyLayer" Type="Node" ID="aa8fe675-378d-4deb-a662-d5b419aef091" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -46,7 +46,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="PlistSubImage" Path="line_gold_small.png" Plist="uiimg/general_ui.plist" />
           </AbstractNodeData>
-          <AbstractNodeData Name="contaner" ActionTag="1922753368" Tag="147" IconVisible="False" LeftMargin="-390.8309" RightMargin="-396.1691" TopMargin="-176.8270" BottomMargin="-95.1730" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="contaner" ActionTag="1922753368" Tag="147" IconVisible="False" LeftMargin="-390.8309" RightMargin="-396.1691" TopMargin="-176.8270" BottomMargin="-95.1730" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="787.0000" Y="272.0000" />
             <AnchorPoint />
             <Position X="-390.8309" Y="-95.1730" />

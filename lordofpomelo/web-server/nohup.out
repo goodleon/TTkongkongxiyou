@@ -50,3 +50,33 @@ appVer=1,resVer=2
 response=<?xml version="1.0" encoding="utf-8"?><root ver="1" force="0" url="http://192.168.199.242:3001/res" res="2" ><f t="file" s="2777957" m="41992c8ea866924f12b3f7e7ceb7fa79" f="res1.ios" /></root>
 appVer=1,resVer=2
 response=<?xml version="1.0" encoding="utf-8"?><root ver="1" force="0" url="http://192.168.199.242:3001/res" res="2" ><f t="file" s="2777957" m="41992c8ea866924f12b3f7e7ceb7fa79" f="res1.ios" /></root>
+module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (/Users/goodleon/Documents/workspace_pomelo/kongkongxiyou/lordofpomelo/web-server/app.js:1:77)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)
+/Users/goodleon/Documents/workspace_pomelo/kongkongxiyou/lordofpomelo/web-server/node_modules/generic-pool/lib/Pool.js:36
+  constructor (Evictor, Deque, PriorityQueue, factory, options) {
+              ^
+
+TypeError: Class constructors cannot be invoked without 'new'
+    at Object.Pool (/Users/goodleon/Documents/workspace_pomelo/kongkongxiyou/lordofpomelo/web-server/node_modules/generic-pool/lib/Pool.js:36:15)
+    at Object.createMysqlPool (/Users/goodleon/Documents/workspace_pomelo/kongkongxiyou/lordofpomelo/web-server/lib/dao/mysql/dao-pool.js:13:22)
+    at Object.NND.init (/Users/goodleon/Documents/workspace_pomelo/kongkongxiyou/lordofpomelo/web-server/lib/dao/mysql/mysql.js:14:33)
+    at Object.sqlclient.init (/Users/goodleon/Documents/workspace_pomelo/kongkongxiyou/lordofpomelo/web-server/lib/dao/mysql/mysql.js:51:7)
+    at Object.<anonymous> (/Users/goodleon/Documents/workspace_pomelo/kongkongxiyou/lordofpomelo/web-server/app.js:293:7)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Function.Module.runMain (module.js:441:10)

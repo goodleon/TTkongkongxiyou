@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="FruitSlotPanel" Type="Node" ID="c38e4636-33f6-4893-8f7e-7391f6fae7e1" Version="2.3.3.0" />
+  <PropertyGroup Name="FruitSlotPanel" Type="Node" ID="c38e4636-33f6-4893-8f7e-7391f6fae7e1" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

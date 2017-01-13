@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MarketPanel" Type="Node" ID="9a3929bd-d9eb-47a1-87a0-9e703fcc99f7" Version="2.3.3.0" />
+  <PropertyGroup Name="MarketPanel" Type="Node" ID="9a3929bd-d9eb-47a1-87a0-9e703fcc99f7" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="RankListPanel" Type="Node" ID="62833bef-5af8-4cb6-8414-6562fef91f14" Version="2.3.3.0" />
+  <PropertyGroup Name="RankListPanel" Type="Node" ID="62833bef-5af8-4cb6-8414-6562fef91f14" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

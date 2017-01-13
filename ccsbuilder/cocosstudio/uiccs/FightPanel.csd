@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="FightPanel" Type="Node" ID="3d744698-f242-4eeb-9074-57c6feb95232" Version="2.3.3.0" />
+  <PropertyGroup Name="FightPanel" Type="Node" ID="3d744698-f242-4eeb-9074-57c6feb95232" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

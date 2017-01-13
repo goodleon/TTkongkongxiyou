@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="HpMpLayer" Type="Node" ID="d2a8938a-e661-4d3d-bd19-e8187d472af0" Version="2.3.3.0" />
+  <PropertyGroup Name="HpMpLayer" Type="Node" ID="d2a8938a-e661-4d3d-bd19-e8187d472af0" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

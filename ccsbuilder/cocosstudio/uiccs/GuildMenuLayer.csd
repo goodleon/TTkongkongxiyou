@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="GuildMenuLayer" Type="Node" ID="75a9d9d3-6fc6-4479-b5b9-fb2642f8b5db" Version="2.3.3.0" />
+  <PropertyGroup Name="GuildMenuLayer" Type="Node" ID="75a9d9d3-6fc6-4479-b5b9-fb2642f8b5db" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

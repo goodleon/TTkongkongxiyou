@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="PlayerMenuLayer" Type="Node" ID="80fa2697-90ef-4d88-9f22-39bd2d952c4b" Version="2.3.3.0" />
+  <PropertyGroup Name="PlayerMenuLayer" Type="Node" ID="80fa2697-90ef-4d88-9f22-39bd2d952c4b" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

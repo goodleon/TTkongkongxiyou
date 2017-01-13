@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BossPanel" Type="Node" ID="55b0652d-6354-48ae-bc84-10bd860c80cd" Version="2.3.3.0" />
+  <PropertyGroup Name="BossPanel" Type="Node" ID="55b0652d-6354-48ae-bc84-10bd860c80cd" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

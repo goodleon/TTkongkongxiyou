@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="GuildHallItem" Type="Node" ID="167bfd7b-828a-4cc3-8548-fb0e353b2849" Version="2.3.3.0" />
+  <PropertyGroup Name="GuildHallItem" Type="Node" ID="167bfd7b-828a-4cc3-8548-fb0e353b2849" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

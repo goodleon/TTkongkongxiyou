@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="FightSelectLayer" Type="Node" ID="c072bd1c-9d71-4d50-88e3-d845735292a4" Version="2.3.3.0" />
+  <PropertyGroup Name="FightSelectLayer" Type="Node" ID="c072bd1c-9d71-4d50-88e3-d845735292a4" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

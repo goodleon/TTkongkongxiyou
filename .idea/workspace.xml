@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b3e4bda-a718-4ef9-bd8f-d2f641d417d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/ccsbuilder.ccs" afterPath="$PROJECT_DIR$/ccsbuilder/ccsbuilder.ccs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/ccsbuilder.cfg" afterPath="$PROJECT_DIR$/ccsbuilder/ccsbuilder.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/ccsbuilder.udf" afterPath="$PROJECT_DIR$/ccsbuilder/ccsbuilder.udf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/AreaLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/AreaLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BagLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BagLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BagPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BagPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BigWinLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BigWinLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BossListLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BossListLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BossMyLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BossMyLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BossPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BossPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BossWorldLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BossWorldLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildBagLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildBagLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildInheritLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildInheritLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildRecycleLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildRecycleLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildStrenghtLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuildStrenghtLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuyLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuyLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuyLayer.udf" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/BuyLayer.udf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ChallengeLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ChallengeLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ChallengePanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ChallengePanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ChatPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ChatPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/DomainDetailLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/DomainDetailLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/DomainLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/DomainLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/DomainPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/DomainPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/EquipmentLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/EquipmentLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedDonationLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedDonationLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedElectionLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedElectionLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedGuildLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedGuildLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedHallLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedHallLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedImpeachLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedImpeachLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedVoteLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FedVoteLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FederationPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FederationPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightFailLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightFailLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightSelectLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightSelectLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightWinLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FightWinLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FruitSlotPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/FruitSlotPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuidBagLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuidBagLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildDetailLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildDetailLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildDetailPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildDetailPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildDomainLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildDomainLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildHallItem.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildHallItem.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildHallLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildHallLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildMemberItem.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildMemberItem.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildMemberLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildMemberLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildMenuLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildMenuLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildShareholderLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildShareholderLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildSimpleLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildSimpleLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildUpgradeLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/GuildUpgradeLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/HpMpLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/HpMpLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ItemLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ItemLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ItemSelectLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ItemSelectLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/LoadingLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/LoadingLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/LoginLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/LoginLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MailLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MailLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MakeDrugLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MakeDrugLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MapLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MapLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MapPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MapPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketBankLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketBankLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketBuyLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketBuyLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketDetailLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketDetailLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketDetailPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketDetailPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketItem.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketItem.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketMyLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketMyLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketTimeLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketTimeLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketTimePanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MarketTimePanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MyBossItem.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MyBossItem.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MyBossLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MyBossLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MyBossPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/MyBossPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/NewEquipmentLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/NewEquipmentLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/NewFunctionLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/NewFunctionLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/PlayerLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/PlayerLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/PlayerMenuLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/PlayerMenuLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/PlotPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/PlotPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/PlotTextPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/PlotTextPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RankListPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RankListPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RankPlayerLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RankPlayerLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RankWorldItem.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RankWorldItem.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RankWorldLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RankWorldLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ReviveLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ReviveLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RoleInfoLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RoleInfoLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RoleLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RoleLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RolePanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/RolePanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SelectLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SelectLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SellLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SellLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SellPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SellPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SetAboutLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SetAboutLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SetBugLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SetBugLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SetGameLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SetGameLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SetMusicLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SetMusicLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SettingPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SettingPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ShopBuyItemLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ShopBuyItemLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ShopItem.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ShopItem.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ShopLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ShopLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ShopPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/ShopPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SkillInfoLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SkillInfoLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SkillInfoPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/SkillInfoPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/TaskPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/TaskPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/TeamLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/TeamLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/TipsBoxLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/TipsBoxLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/TransportPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/TransportPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/UpdateScene.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/UpdateScene.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/VipBuyLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/VipBuyLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/VipCoinLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/VipCoinLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/VipGiftLayer.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/VipGiftLayer.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/VipPanel.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/VipPanel.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/WelcomeScene.csd" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiccs/WelcomeScene.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.app_login_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.app_login_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.battle_ui_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.battle_ui_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.buid_panel_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.buid_panel_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.domain_ui_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.domain_ui_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.fight_ui_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.fight_ui_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.general_ui_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.general_ui_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.role_panel_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.role_panel_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.selectscene_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.selectscene_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.update_ui_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.update_ui_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.vip_ui_PList.Dir/InfoConfig.xml" afterPath="$PROJECT_DIR$/ccsbuilder/cocosstudio/uiimg/.vip_ui_PList.Dir/InfoConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/ccsbuilder.ccs" afterPath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/ccsbuilder.ccs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/ccsbuilder.cfg" afterPath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/ccsbuilder.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/ccsbuilder.udf" afterPath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/ccsbuilder.udf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/cocosstudio/AreaNode.csd" afterPath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/cocosstudio/AreaNode.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/cocosstudio/CollisionNode.csd" afterPath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/cocosstudio/CollisionNode.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/cocosstudio/EditorNode.csd" afterPath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/cocosstudio/EditorNode.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/cocosstudio/EntityNode.csd" afterPath="$PROJECT_DIR$/cocosjs/editor/ccsbuilder/cocosstudio/EntityNode.csd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cocosjs/frameworks/runtime-src/Classes/GameCore/CommonLib.cpp" afterPath="$PROJECT_DIR$/cocosjs/frameworks/runtime-src/Classes/GameCore/CommonLib.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lordofpomelo/web-server/nohup.out" afterPath="$PROJECT_DIR$/lordofpomelo/web-server/nohup.out" />
+    </list>
+    <ignored path="kongkongxiyou.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kongkongxiyou" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="appHandler.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cocosjs/src/handler/appHandler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cocosjs/project.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1398" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plistbuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plistbuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animation16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plistbuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animation16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bar_coin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocosjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocosjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocosjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="handler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocosjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongkongxiyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="characterRes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b3e4bda-a718-4ef9-bd8f-d2f641d417d0" name="Default" comment="" />
+      <created>1484150376629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484150376629</updated>
+      <workItem from="1484150378113" duration="63000" />
+      <workItem from="1484150581658" duration="262000" />
+      <workItem from="1484152719532" duration="3000" />
+      <workItem from="1484192648763" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="336000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1398" height="877" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24821173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cocosjs/src/handler/appHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosjs/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosjs/src/handler/appHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosjs/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plistbuild/discount_5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosjs/res/character/10001.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosjs/src/ai/action/chooseSkill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosjs/src/ai/action/cancelAI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_android.command">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bindjs.command">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/characterRes/10003/10003_1attack_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosjs/src/handler/appHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plistbuild/animation16/bar_coin/bar_coin_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosjs/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

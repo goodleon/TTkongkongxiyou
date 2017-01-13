@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MarketTimePanel" Type="Node" ID="9c1bc0d2-70be-4dfb-8b5f-b5f52a7e3218" Version="2.3.3.0" />
+  <PropertyGroup Name="MarketTimePanel" Type="Node" ID="9c1bc0d2-70be-4dfb-8b5f-b5f52a7e3218" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

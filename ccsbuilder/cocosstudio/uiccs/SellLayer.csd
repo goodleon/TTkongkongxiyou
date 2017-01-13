@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="SellLayer" Type="Node" ID="47945d37-e1b0-44ba-99d0-cf26e142639e" Version="2.3.3.0" />
+  <PropertyGroup Name="SellLayer" Type="Node" ID="47945d37-e1b0-44ba-99d0-cf26e142639e" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

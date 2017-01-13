@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MarketLayer" Type="Node" ID="e17c8274-7ae9-493d-b4a8-cea725a8d44e" Version="2.3.3.0" />
+  <PropertyGroup Name="MarketLayer" Type="Node" ID="e17c8274-7ae9-493d-b4a8-cea725a8d44e" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -102,7 +102,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="contaner" ActionTag="765835827" Tag="214" IconVisible="False" LeftMargin="-389.4998" RightMargin="-398.5002" TopMargin="-166.1605" BottomMargin="-203.8395" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="contaner" ActionTag="765835827" Tag="214" IconVisible="False" LeftMargin="-389.4998" RightMargin="-398.5002" TopMargin="-166.1605" BottomMargin="-203.8395" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="788.0000" Y="370.0000" />
             <AnchorPoint />
             <Position X="-389.4998" Y="-203.8395" />

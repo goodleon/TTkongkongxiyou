@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="TipsBoxLayer" Type="Node" ID="63b0fa72-565e-4d58-b69a-2ddefb9c377f" Version="2.3.3.0" />
+  <PropertyGroup Name="TipsBoxLayer" Type="Node" ID="63b0fa72-565e-4d58-b69a-2ddefb9c377f" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

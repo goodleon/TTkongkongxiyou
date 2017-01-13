@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="RankWorldItem" Type="Node" ID="b2ebbad9-1985-4380-82a2-a94a8167e859" Version="2.3.3.0" />
+  <PropertyGroup Name="RankWorldItem" Type="Node" ID="b2ebbad9-1985-4380-82a2-a94a8167e859" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

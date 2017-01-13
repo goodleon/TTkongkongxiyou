@@ -560,9 +560,9 @@ const char* CommonLib::getServerIP()
     return hostToIp(CommonLib::getServerURL());
 }
 
-static std::string g_serverURL="www.tiexuejinrong.com";
+//static std::string g_serverURL="www.tiexuejinrong.com";
 //static std::string g_serverURL="192.168.199.242";
-//static std::string g_serverURL="127.0.0.1";
+static std::string g_serverURL="127.0.0.1";
 
 const char* CommonLib::getServerURL()
 {

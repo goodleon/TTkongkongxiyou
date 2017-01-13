@@ -1,12 +1,12 @@
 <GameFile>
-  <PropertyGroup Name="WelcomeScene" Type="Node" ID="8d765865-9278-40bc-b3ec-f0aaf2f0dde9" Version="2.3.3.0" />
+  <PropertyGroup Name="WelcomeScene" Type="Node" ID="8d765865-9278-40bc-b3ec-f0aaf2f0dde9" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Node" Tag="19" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Panel_1" CanEdit="False" ActionTag="-288571866" Tag="36" IconVisible="False" LeftMargin="-750.0000" RightMargin="-750.0000" TopMargin="-650.0000" BottomMargin="-650.0000" TouchEnable="True" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_1" CanEdit="False" ActionTag="-288571866" Tag="36" IconVisible="False" LeftMargin="-750.0000" RightMargin="-750.0000" TopMargin="-650.0000" BottomMargin="-650.0000" TouchEnable="True" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="1500.0000" Y="1300.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position />

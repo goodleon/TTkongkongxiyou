@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="VipBuyLayer" Type="Node" ID="5c532157-80d1-46e7-af94-3885db215ec7" Version="2.3.3.0" />
+  <PropertyGroup Name="VipBuyLayer" Type="Node" ID="5c532157-80d1-46e7-af94-3885db215ec7" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -326,7 +326,7 @@
                 <Position X="712.0002" Y="0.0001" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.8790" Y="0.0000" />
+                <PrePosition X="0.8790" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
             </Children>

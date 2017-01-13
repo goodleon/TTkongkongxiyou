@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="FedVoteLayer" Type="Node" ID="05211f09-ea28-4638-a814-f20f2323023f" Version="2.3.3.0" />
+  <PropertyGroup Name="FedVoteLayer" Type="Node" ID="05211f09-ea28-4638-a814-f20f2323023f" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

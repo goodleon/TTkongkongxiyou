@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BuildRecycleLayer" Type="Node" ID="8dd5960e-eabb-43a4-9caf-ddcdc3a4ad03" Version="2.3.3.0" />
+  <PropertyGroup Name="BuildRecycleLayer" Type="Node" ID="8dd5960e-eabb-43a4-9caf-ddcdc3a4ad03" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

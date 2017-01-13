@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="ChallengeLayer" Type="Node" ID="0edceb48-db97-4794-a701-ac42878bd620" Version="2.3.3.0" />
+  <PropertyGroup Name="ChallengeLayer" Type="Node" ID="0edceb48-db97-4794-a701-ac42878bd620" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

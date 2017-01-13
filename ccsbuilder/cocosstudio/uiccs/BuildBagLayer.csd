@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BuildBagLayer" Type="Node" ID="da003457-7db2-4d14-8120-42ce91daa8ec" Version="2.3.3.0" />
+  <PropertyGroup Name="BuildBagLayer" Type="Node" ID="da003457-7db2-4d14-8120-42ce91daa8ec" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

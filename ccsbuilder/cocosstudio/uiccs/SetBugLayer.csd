@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="SetBugLayer" Type="Node" ID="0dafbdd2-a591-429c-9ded-508daa0d871d" Version="2.3.3.0" />
+  <PropertyGroup Name="SetBugLayer" Type="Node" ID="0dafbdd2-a591-429c-9ded-508daa0d871d" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

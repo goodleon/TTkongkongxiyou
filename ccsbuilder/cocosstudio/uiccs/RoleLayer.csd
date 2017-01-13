@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="RoleLayer" Type="Node" ID="5c59fb44-355a-419f-9eca-7ac623ef4c2c" Version="2.3.3.0" />
+  <PropertyGroup Name="RoleLayer" Type="Node" ID="5c59fb44-355a-419f-9eca-7ac623ef4c2c" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

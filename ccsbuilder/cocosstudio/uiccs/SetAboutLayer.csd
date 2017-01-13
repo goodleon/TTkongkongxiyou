@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="SetAboutLayer" Type="Node" ID="68bbd373-dce3-4a72-b77a-e0f69f99c686" Version="2.3.3.0" />
+  <PropertyGroup Name="SetAboutLayer" Type="Node" ID="68bbd373-dce3-4a72-b77a-e0f69f99c686" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

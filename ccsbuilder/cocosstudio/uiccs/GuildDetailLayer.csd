@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="GuildDetailLayer" Type="Node" ID="2f99533c-49f5-4fd8-835e-144628283e24" Version="2.3.3.0" />
+  <PropertyGroup Name="GuildDetailLayer" Type="Node" ID="2f99533c-49f5-4fd8-835e-144628283e24" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

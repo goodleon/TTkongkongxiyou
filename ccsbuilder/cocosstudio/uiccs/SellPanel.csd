@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="SellPanel" Type="Node" ID="b7ba651c-8170-40bb-a0b4-87b5c12aa5f4" Version="2.3.3.0" />
+  <PropertyGroup Name="SellPanel" Type="Node" ID="b7ba651c-8170-40bb-a0b4-87b5c12aa5f4" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

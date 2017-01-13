@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="SkillInfoPanel" Type="Node" ID="1998cfb0-4880-4aa6-ab5c-1a5e8596cc1b" Version="2.3.3.0" />
+  <PropertyGroup Name="SkillInfoPanel" Type="Node" ID="1998cfb0-4880-4aa6-ab5c-1a5e8596cc1b" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

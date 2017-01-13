@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="GuidBagLayer" Type="Node" ID="400b5f53-8550-4c47-9027-6e889ade634c" Version="2.3.3.0" />
+  <PropertyGroup Name="GuidBagLayer" Type="Node" ID="400b5f53-8550-4c47-9027-6e889ade634c" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

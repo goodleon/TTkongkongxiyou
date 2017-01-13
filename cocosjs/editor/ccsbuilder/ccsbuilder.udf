@@ -1,4 +1,4 @@
-<UserData Version="2.3.2.3">
+<UserData Version="3.10.0.0">
   <Properties>
     <Item Key="CocosRecentOperation">
       <Value ctype="CocosRecentOperation">
@@ -30,13 +30,7 @@
     </Item>
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="AreaNode.csd" />
-          <FilePathData Path="EditorNode.csd" />
-          <FilePathData Path="EntityNode.csd" />
-          <FilePathData Path="CollisionNode.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="EntityNode.csd" />
+        <ActiveDocument />
       </Value>
     </Item>
   </Properties>

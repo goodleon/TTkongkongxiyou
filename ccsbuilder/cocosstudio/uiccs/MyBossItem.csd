@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MyBossItem" Type="Node" ID="9270c18d-6872-4861-9bb4-97d4f9f28711" Version="2.3.3.0" />
+  <PropertyGroup Name="MyBossItem" Type="Node" ID="9270c18d-6872-4861-9bb4-97d4f9f28711" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

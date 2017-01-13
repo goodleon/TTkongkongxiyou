@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="UpdateScene" Type="Node" ID="cefd7ed3-4452-48fa-b535-f119b8a5c0db" Version="2.3.3.0" />
+  <PropertyGroup Name="UpdateScene" Type="Node" ID="cefd7ed3-4452-48fa-b535-f119b8a5c0db" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

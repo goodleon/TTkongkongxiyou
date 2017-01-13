@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BigWinLayer" Type="Node" ID="8fc3599e-bbeb-410b-b275-183f66067f0e" Version="2.3.3.0" />
+  <PropertyGroup Name="BigWinLayer" Type="Node" ID="8fc3599e-bbeb-410b-b275-183f66067f0e" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

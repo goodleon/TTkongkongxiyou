@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="MarketItem" Type="Node" ID="2bacf57e-a84b-4a3a-b185-660fe453e9d2" Version="2.3.3.0" />
+  <PropertyGroup Name="MarketItem" Type="Node" ID="2bacf57e-a84b-4a3a-b185-660fe453e9d2" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

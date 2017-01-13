@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="GuildHallLayer" Type="Node" ID="4029f894-27bd-444d-b7f6-c733c8449dc4" Version="2.3.3.0" />
+  <PropertyGroup Name="GuildHallLayer" Type="Node" ID="4029f894-27bd-444d-b7f6-c733c8449dc4" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="TeamLayer" Type="Node" ID="cb0e8976-8282-4107-9a72-4d7fe247e822" Version="2.3.3.0" />
+  <PropertyGroup Name="TeamLayer" Type="Node" ID="cb0e8976-8282-4107-9a72-4d7fe247e822" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

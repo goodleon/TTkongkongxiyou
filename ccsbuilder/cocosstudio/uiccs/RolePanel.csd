@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="RolePanel" Type="Node" ID="8d00256e-e59f-4f54-9c64-d6e357b645cd" Version="2.3.3.0" />
+  <PropertyGroup Name="RolePanel" Type="Node" ID="8d00256e-e59f-4f54-9c64-d6e357b645cd" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

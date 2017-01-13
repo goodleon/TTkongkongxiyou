@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="VipGiftLayer" Type="Node" ID="2033eab8-a1f4-46d8-8a38-d22305b21608" Version="2.3.3.0" />
+  <PropertyGroup Name="VipGiftLayer" Type="Node" ID="2033eab8-a1f4-46d8-8a38-d22305b21608" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="PlotTextPanel" Type="Node" ID="737c4ddb-6b76-4d6d-82af-23bb1d2ea906" Version="2.3.3.0" />
+  <PropertyGroup Name="PlotTextPanel" Type="Node" ID="737c4ddb-6b76-4d6d-82af-23bb1d2ea906" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

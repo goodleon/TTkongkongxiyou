@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="SkillInfoLayer" Type="Node" ID="49339970-b744-4373-86c3-94941f32694d" Version="2.3.3.0" />
+  <PropertyGroup Name="SkillInfoLayer" Type="Node" ID="49339970-b744-4373-86c3-94941f32694d" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="FightFailLayer" Type="Node" ID="e1e438b6-ca6b-4dd2-8a89-519f976747d0" Version="2.3.3.0" />
+  <PropertyGroup Name="FightFailLayer" Type="Node" ID="e1e438b6-ca6b-4dd2-8a89-519f976747d0" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

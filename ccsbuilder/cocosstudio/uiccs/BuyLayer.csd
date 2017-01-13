@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BuyLayer" Type="Node" ID="e4b6bbe8-1fca-483a-beb4-cf4c6fb8e9d6" Version="2.3.3.0" />
+  <PropertyGroup Name="BuyLayer" Type="Node" ID="e4b6bbe8-1fca-483a-beb4-cf4c6fb8e9d6" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

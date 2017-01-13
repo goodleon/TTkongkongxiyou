@@ -1,12 +1,12 @@
-<GameProjectFile>
-  <PropertyGroup Type="Node" Name="CollisionNode" ID="4d2a28d7-09ce-48c4-893c-3bcc14b20041" Version="2.3.2.3" />
+<GameFile>
+  <PropertyGroup Name="CollisionNode" Type="Node" ID="4d2a28d7-09ce-48c4-893c-3bcc14b20041" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Node" Tag="84" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Panel_1" CanEdit="False" ActionTag="820792929" Tag="85" IconVisible="False" LeftMargin="161.0000" RightMargin="-511.0000" TopMargin="-270.0001" BottomMargin="-279.9999" TouchEnable="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_1" CanEdit="False" ActionTag="820792929" Tag="85" IconVisible="False" LeftMargin="161.0000" RightMargin="-511.0000" TopMargin="-270.0001" BottomMargin="-279.9999" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
             <Size X="350.0000" Y="550.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="336.0000" Y="-4.9999" />
@@ -178,4 +178,4 @@
       </ObjectData>
     </Content>
   </Content>
-</GameProjectFile>
+</GameFile>

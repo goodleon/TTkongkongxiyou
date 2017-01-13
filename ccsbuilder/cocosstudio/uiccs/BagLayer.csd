@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BagLayer" Type="Node" ID="641631f6-fa9d-4497-acbb-03e50c397dc3" Version="2.3.3.0" />
+  <PropertyGroup Name="BagLayer" Type="Node" ID="641631f6-fa9d-4497-acbb-03e50c397dc3" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

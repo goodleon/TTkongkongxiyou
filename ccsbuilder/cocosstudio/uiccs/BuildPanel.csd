@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="BuildPanel" Type="Node" ID="873a5986-1b0f-4937-92de-444c5a646862" Version="2.3.3.0" />
+  <PropertyGroup Name="BuildPanel" Type="Node" ID="873a5986-1b0f-4937-92de-444c5a646862" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

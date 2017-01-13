@@ -1,12 +1,12 @@
 <Solution>
-  <PropertyGroup Name="ccsbuilder" Version="2.3.2.3" Type="CocosStudio" />
+  <PropertyGroup Name="ccsbuilder" Version="3.10.0.0" Type="CocosStudio" />
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <Project Name="AreaNode.csd" Type="Node" />
+        <Project Name="CollisionNode.csd" Type="Node" />
         <Project Name="EditorNode.csd" Type="Node" />
         <Project Name="EntityNode.csd" Type="Node" />
-        <Project Name="CollisionNode.csd" Type="Node" />
       </RootFolder>
     </Group>
   </SolutionFolder>

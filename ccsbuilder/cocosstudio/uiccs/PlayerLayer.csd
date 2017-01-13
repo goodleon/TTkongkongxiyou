@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="PlayerLayer" Type="Node" ID="678b5edd-276e-438a-ad0f-fb7244f530a8" Version="2.3.3.0" />
+  <PropertyGroup Name="PlayerLayer" Type="Node" ID="678b5edd-276e-438a-ad0f-fb7244f530a8" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />

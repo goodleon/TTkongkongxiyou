@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="FedGuildLayer" Type="Node" ID="4fd8d8d0-b925-46cf-8c3e-347908a50e9d" Version="2.3.3.0" />
+  <PropertyGroup Name="FedGuildLayer" Type="Node" ID="4fd8d8d0-b925-46cf-8c3e-347908a50e9d" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
